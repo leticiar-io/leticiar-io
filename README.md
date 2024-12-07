@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi There! 👋</h1>
 
-<!--
-**leticiar-io/leticiar-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiar-io)](www.linkedin.com/in/leticiar-io)
+[![Gmail Badge](https://img.shields.io/badge/-leticia.rodrigues20021@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.rodrigues20021@gmail.com)](mailto:leticia.rodrigues20021@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is Letícia Rodrigues
+(Python | SQL | React JS | Next JS | Typescript | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Intership in Data Analysis @[Banco do Nordeste](https://www.bnb.gov.br/)
+- 🏆 Nasa Space Apps 2020 Hackathon Winner
+- 🎓 **Education:** 
+  - Bachelor’s degree in Systems and Digital Media @Federal University of Ceará
+  - Data Science Technologist course @Maurício de Nassau College
+- 🌐 Passionate about data, web development and UI/UX design
+- 💡 Love a good challenge
+
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiar-io&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
