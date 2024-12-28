@@ -14,9 +14,3 @@
   - Data Science Technologist course @Maurício de Nassau College
 - 🌐 Passionate about data, web development and UI/UX design
 - 💡 Love a good challenge
-
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiar-io&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-  
- </div>
