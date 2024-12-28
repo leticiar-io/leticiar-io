@@ -1,7 +1,8 @@
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiar-io)](www.linkedin.com/in/leticiar-io)
-[![Gmail Badge](https://img.shields.io/badge/-leticia.rodrigues20021@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.rodrigues20021@gmail.com)](mailto:leticia.rodrigues20021@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-181818?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiar-io)](www.linkedin.com/in/leticiar-io)
+[![Gmail Badge](https://img.shields.io/badge/-leticia.rodrigues20021@gmail.com-181818?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.rodrigues20021@gmail.com)](mailto:leticia.rodrigues20021@gmail.com)
+[![Behance Badge](https://img.shields.io/badge/-Behance-181818?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/leticiar-io)](https://www.behance.net/leticiar-io)
 
 
 ## My name is Letícia Rodrigues
