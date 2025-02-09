@@ -8,10 +8,9 @@
 ## My name is Letícia Rodrigues
 (Python | SQL | React JS | Next JS | Typescript | Javascript | HTML | CSS | Python) 🚀
 - 💻 Visit my [portfolio website](https://lefolio.vercel.app/) (it's in production)✨
-- 👩‍💻 Intership in Data Analysis @[Banco do Nordeste](https://www.bnb.gov.br/)
 - 🏆 Nasa Space Apps 2020 Hackathon Winner
 - 🎓 **Education:** 
   - Bachelor’s degree in Systems and Digital Media @Federal University of Ceará
   - Data Science Technologist course @Maurício de Nassau College
-- 🌐 Passionate about data, web development and UI/UX design
+- 🌐 Passionate about web development and UI/UX design
 - 💡 Love a good challenge
