@@ -7,7 +7,6 @@
 
 ## My name is Letícia Rodrigues
 (Python | SQL | React JS | Next JS | Typescript | Javascript | HTML | CSS | Python) 🚀
-- 💻 Visit my [portfolio website](https://lefolio.vercel.app/) (it's in production)✨
 - 🏆 Nasa Space Apps 2020 Hackathon Winner
 - 🎓 **Education:** 
   - Bachelor’s degree in Systems and Digital Media @Federal University of Ceará
